@@ -1,0 +1,7 @@
+# WSRNet — verified on Python 3.10, CUDA 12.1
+torch>=2.1
+torchvision
+numpy
+h5py
+scipy
+matplotlib    # only for eval_sweep.py PSNR-vs-epoch plot
